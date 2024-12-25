@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajani Londhe</h1>
+<h1 align="center">Hi 👋, I'm Rajani</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
